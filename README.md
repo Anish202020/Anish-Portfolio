@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Anish's Portfolio
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/1.png" alt="Portfolio-Thumbnail" border="0">
 
+## Overview
+<img src="https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" width="150" height="150"/>
+Anish's Portfolio is a personal website designed to showcase Anish's projects and skills in web development. The portfolio highlights various projects that demonstrate proficiency in modern web technologies.
+
+## Technologies Used
+- **Frontend**:
+    - NextJs
+    - Tailwind CSS
+    - shadcn/ui
+    - acenetity ui
+- **Backend**:
+    - MongoDB
+    - MySQL
+## Features
+- Display of web development projects
+- Detailed information about each project
+- Contact information
 ## Getting Started
+### Flow Diagram
+<details>
+  <summary>Click to See The DataFlow Diagram</summary>
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Dataflow/portfolio.png"/>
 
-First, run the development server:
+The Above is the Dataflow Diagram of Anish's Portfolio
+</details>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
+- Node.js
+- npm or yarn
+### Installation
+1. Clone the repository:git clone [https://github.com/Anish202020/anishportfolio2222.git](https://github.com/Anish202020/anishportfolio2222.git)
+2. Navigate to the project directory:cd anish-portfolio
+3. Install dependencies: ornpm installyarn install
+### Running the Project Locally
+1. Start the development server: ornpm run devyarn dev
+2. Open your browser and navigate to `http://localhost:3000` 
+## Contribution Guidelines
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch` ).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'` ).
+5. Push to the branch (`git push origin feature-branch` ).
+6. Open a pull request.
+## Contact
+For any inquiries, please contact Anish at [﻿anishkumarbdmi@gmail.com](mailto:anishkumarbdmi@gmail.com).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
