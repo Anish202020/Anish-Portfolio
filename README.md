@@ -1,8 +1,8 @@
 # Anish's Portfolio
-<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/1.png" alt="Portfolio-Thumbnail" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Anish%20Portfolio.png" alt="Portfolio-Thumbnail" border="0">
 
 ## Overview
-<img src="https://static.vecteezy.com/system/resources/previews/020/816/485/original/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" width="150" height="150"/>
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Logos/Website%20Logos/d2ed844f2e3deb2772781a453c39bf83.jpg" width="150" height="150"/>
 Anish's Portfolio is a personal website designed to showcase Anish's projects and skills in web development. The portfolio highlights various projects that demonstrate proficiency in modern web technologies.
 
 ## Technologies Used
