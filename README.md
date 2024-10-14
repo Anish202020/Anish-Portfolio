@@ -31,7 +31,7 @@ The Above is the Dataflow Diagram of Anish's Portfolio
 - Node.js
 - npm or yarn
 ### Installation
-1. Clone the repository:git clone [https://github.com/Anish202020/anishportfolio2222.git](https://github.com/Anish202020/anishportfolio2222.git)
+1. Clone the repository:git clone [https://github.com/Anish202020/Anish-Portfolio](https://github.com/Anish202020/Anish-Portfolio)
 2. Navigate to the project directory:cd anish-portfolio
 3. Install dependencies: ornpm installyarn install
 ### Running the Project Locally
