@@ -72,20 +72,21 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "Callify VC App",
+      des: "Callify is a video conferencing application designed to provide secure, real-time communication with a range of features to enhance user experience.",
+      img: "/5.png",
+      iconLists: ["/nextjs.png", "/tailwind.png", "/stream.png"],
+      link: "https://callify-meet.vercel.app/",
+    },
+    {
+      id: 2,
       title: "AI Saas Blog",
       des: "AI SaaS Blog is a platform dedicated to sharing insights, trends, and innovations in the world of artificial intelligence as a service.",
       img: "/4.png",
       iconLists: ["/nextjs.png", "/tailwind.png", "/mongodb.png", "/auth0.png","/chatgpt.png"],
       link: "https://ai-bloggy.vercel.app/",
     },
-    {
-      id: 2,
-      title: "Curiosense Ecommerce",
-      des: "CurioSense is an eCommerce platform that specializes in unique and educational products for kids, offering a range of toys, books.",
-      img: "/5.png",
-      iconLists: ["/nextjs.png", "/tailwind.png", "/mongodb.png"],
-      link: "https://curiousenseltd.vercel.app/",
-    },
+    
     {
       id: 3,
       title: "Ease Expense Personal Money Budget",
