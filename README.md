@@ -1,5 +1,12 @@
 # Anish's Portfolio
-<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Anish%20Portfolio.png" alt="Portfolio-Thumbnail" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Web%20Development/Anish%20Portfolio.png" alt="Portfolio-Thumbnail" border="0">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Shad CN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+![Acenternity UI](https://img.shields.io/badge/Acenternity_UI-000000?style=for-the-badge&logo=ui-accent&logoColor=white)
 
 ## Overview
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Logos/Website%20Logos/d2ed844f2e3deb2772781a453c39bf83.jpg" width="150" height="150"/>
