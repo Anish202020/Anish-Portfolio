@@ -218,4 +218,9 @@ export const navItems = [
       img: "/linkdin.png",
       link:"https://www.linkedin.com/in/anish-kumar-b47999213/"
     },
+    {
+      id:4,
+      img: "/youtube.jpg",
+      link:"https://www.youtube.com/@AnishKumar-Creator/"
+    }
   ];
